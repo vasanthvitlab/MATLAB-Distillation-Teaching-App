@@ -1,0 +1,55 @@
+MATLAB DISTILLATION TEACHING APP
+EDUCATIONAL AND NON-COMMERCIAL USE LICENCE
+Version 1.0 — Draft for rights-holder review (25 October 2026)
+
+IMPORTANT: This draft is not effective until the authorised copyright holder approves it and replaces the bracketed fields below. It is not legal advice.
+
+Copyright (c) 2026 [INSERT CONFIRMED COPYRIGHT HOLDER]
+All rights reserved except as expressly licensed below.
+
+1. SOFTWARE AND PARTIES
+This licence applies to the compiled executable application known as the “MATLAB Distillation Teaching App” and any accompanying application-specific files expressly identified as covered by this licence (the “Software”). The licensor is [INSERT CONFIRMED COPYRIGHT HOLDER / AUTHORISED LICENSOR] (the “Licensor”).
+
+The Software was developed by Mia Wright (Chemical Engineering Student, University of Surrey) and Dr K Vasanth Kumar (Chemical and Process Engineering, University of Surrey). Development was supported by the Fluor Global University Sponsorship Programme (GUSP). These credits are acknowledgements, not representations that the named individuals or funder own the copyright or endorse downstream uses.
+
+2. PERMITTED USE
+Subject to this licence, the Licensor grants each recipient a worldwide, non-exclusive, royalty-free, non-transferable permission to download, install, and run the unmodified compiled Software for personal learning, classroom teaching, demonstration, examination preparation, and non-commercial academic research.
+
+Users may make a reasonable number of backup copies for their own permitted use. Instructors may direct students to the Licensor's official distribution page.
+
+3. RESTRICTIONS
+Except where applicable law overrides these restrictions or the Licensor provides prior written permission, users must not:
+(a) sell, sublicense, rent, lease, or commercially exploit the Software;
+(b) redistribute, mirror, republish, or bundle copies of the Software, including within another product or paid training package;
+(c) modify, adapt, translate, or create derivative versions of the Software;
+(d) reverse engineer, decompile, or disassemble the Software; or
+(e) remove copyright, authorship, funding, or other proprietary notices.
+
+Use of the Software as part of fee-charging consultancy, commercial product development, or operational industrial process design requires separate written permission. Ordinary tuition fees charged by an educational institution do not, by themselves, make otherwise permitted classroom teaching a prohibited commercial use.
+
+4. THIRD-PARTY SOFTWARE
+This licence does not grant rights to MATLAB, MATLAB Runtime, Aspen HYSYS, or any third-party libraries, trademarks, or materials. Their respective licences and terms continue to apply. Users are responsible for obtaining any required MATLAB Runtime version and complying with its terms.
+
+5. SEPARATE DOCUMENTATION
+The document titled “Distillation: Worked Examples and Guide” is not licensed under this Software licence. Its permitted uses depend on the separate licence or copyright notice included with that document. If no separate permission is stated, no additional rights to reproduce or adapt the document are granted by this licence.
+
+6. EDUCATIONAL PURPOSE AND NO PROFESSIONAL RELIANCE
+The Software is a simplified educational tool using assumptions that may include constant relative volatility, constant molar overflow, and approximate latent-heat-based condenser and reboiler duties. It is not intended as a substitute for validated engineering calculations, rigorous process simulation, equipment design, or safety-critical decision-making. Users are responsible for independently checking all results.
+
+7. NO WARRANTY AND LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING ACCURACY, FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR AND CONTRIBUTORS SHALL NOT BE LIABLE FOR LOSSES OR DAMAGES ARISING FROM USE OF OR INABILITY TO USE THE SOFTWARE. NOTHING IN THIS LICENCE EXCLUDES LIABILITY THAT CANNOT LAWFULLY BE EXCLUDED.
+
+8. TERMINATION
+The permission granted by this licence ends automatically if a user materially breaches its terms and does not remedy the breach within 30 days after receiving written notice from the Licensor. On termination, the user must cease using the Software and delete copies in their possession, except where retention is required by law.
+
+9. PERMISSIONS AND ENQUIRIES
+For commercial use, redistribution, adaptation, or other permissions, contact:
+[INSERT AUTHORISED UNIVERSITY / LICENSOR CONTACT EMAIL]
+
+10. GOVERNING LAW
+This licence is governed by the laws of England and Wales, subject to mandatory laws that apply to the user.
+
+ACKNOWLEDGEMENT
+Developed by Mia Wright and Dr K Vasanth Kumar at the University of Surrey, with support from the Fluor Global University Sponsorship Programme (GUSP).
+
+END OF LICENCE
